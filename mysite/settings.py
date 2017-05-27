@@ -25,7 +25,7 @@ SECRET_KEY = 'a=!x9l*3y*aqmn%5117r_3mjjprp((g#)@)4ez#k3tk_%bv82%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['adra.pythonanywhere.com']
 
 
 # Application definition
